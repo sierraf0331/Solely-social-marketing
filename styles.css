@@ -72,3 +72,13 @@ footer{padding:0;background:#111820;color:#cbd2d8}.footer-main{padding:75px 0;di
 /* BRAND CHECK-IN */
 .brand-checkin{background:#f3e5e0;position:relative;overflow:hidden}.brand-checkin:before{content:"✦";position:absolute;right:8%;top:34px;font-size:4rem;color:rgba(166,107,105,.14);transform:rotate(12deg)}.brand-checkin:after{content:"♡";position:absolute;left:4%;bottom:30px;font-size:3rem;color:rgba(166,107,105,.12)}.checkin-top{display:grid;grid-template-columns:1.15fr .85fr;gap:70px;align-items:end;margin-bottom:38px}.checkin-top h2{font-family:"Space Grotesk";font-size:clamp(2.3rem,4.5vw,4.3rem);line-height:.98;letter-spacing:-.045em}.checkin-top h2 em{font-style:normal;color:#a66b69}.checkin-top>p{color:#59636b;max-width:440px;margin-bottom:4px}.checkin-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.checkin-grid article{background:#fffaf7;border:1px solid #e7d8d1;border-radius:22px;padding:25px;min-height:230px;position:relative;box-shadow:0 12px 28px rgba(23,32,43,.05)}.checkin-grid article>span{font-family:"Space Grotesk";font-size:.62rem;color:#a66b69;letter-spacing:.1em}.checkin-icon{width:42px;height:42px;border-radius:50%;background:#f1d7d7;display:grid;place-items:center;margin:18px 0 14px;font-size:1.1rem}.checkin-grid h3{font-family:"Space Grotesk";font-size:1.15rem;line-height:1.1}.checkin-grid p{font-size:.75rem;color:#68717a;margin-top:8px}.checkin-note{text-align:center;font-family:"Caveat",cursive;color:#8f6868;font-size:1.25rem;margin-top:28px}
 @media(max-width:800px){.checkin-top{grid-template-columns:1fr;gap:20px}.checkin-grid{grid-template-columns:1fr}.checkin-grid article{min-height:auto}.brand-checkin{padding-top:65px;padding-bottom:65px}}
+
+
+/* Glow-Up visual beside the headline */
+.glow-heading{grid-template-columns:1fr 1fr;gap:55px;align-items:center}
+.glow-copy>p:not(.eyebrow){color:#68727a;max-width:500px;margin-top:22px}
+.glow-visual{position:relative;transform:rotate(1.5deg);border-radius:30px;overflow:hidden;box-shadow:0 25px 55px rgba(23,32,43,.12);border:1px solid #eadbd5;background:#f8eee9}
+.glow-visual:after{content:"SAMPLE CONCEPT";position:absolute;right:16px;top:16px;padding:7px 10px;border-radius:999px;background:rgba(255,250,247,.88);font-size:.58rem;font-weight:700;letter-spacing:.1em;color:#8f6868}
+.glow-visual img{display:block;width:100%;height:auto}
+@media(max-width:950px){.glow-heading{grid-template-columns:1fr;gap:35px}.glow-visual{max-width:680px;width:100%;margin:0 auto;transform:none}}
+@media(max-width:520px){.glow-visual{border-radius:22px}.glow-copy>p:not(.eyebrow){font-size:.95rem}}
