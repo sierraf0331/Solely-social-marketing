@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" role="img" aria-labelledby="title desc">
+<title id="title">Solely Social brand transformation illustration</title>
+<desc id="desc">A feminine editorial marketing workspace showing a phone, content card, email card, sparkles and flowers.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1d7d7"/><stop offset=".55" stop-color="#fff5ef"/><stop offset="1" stop-color="#e9efe8"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#17202b" flood-opacity=".13"/></filter>
+</defs>
+<rect width="760" height="620" rx="42" fill="url(#bg)"/>
+<circle cx="650" cy="95" r="82" fill="#fffaf7" opacity=".72"/>
+<circle cx="90" cy="530" r="115" fill="#fffaf7" opacity=".45"/>
+<g transform="translate(55 52) rotate(-5 170 230)" filter="url(#shadow)">
+ <rect width="330" height="475" rx="35" fill="#17202b"/>
+ <rect x="15" y="15" width="300" height="445" rx="26" fill="#fffaf7"/>
+ <rect x="112" y="27" width="76" height="7" rx="4" fill="#d9b4b5"/>
+ <circle cx="45" cy="65" r="22" fill="#f1d7d7"/><text x="45" y="72" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#8f6868">SS</text>
+ <text x="80" y="64" font-family="Arial" font-size="13" font-weight="700" fill="#17202b">your brand</text>
+ <rect x="30" y="105" width="270" height="180" rx="20" fill="#d9b4b5"/>
+ <circle cx="232" cy="147" r="52" fill="#e9efe8"/><path d="M210 160c25-38 55-35 75-4" fill="none" stroke="#8f6868" stroke-width="7" stroke-linecap="round"/>
+ <text x="50" y="155" font-family="Arial" font-size="31" font-weight="700" fill="#fffaf7">SHOW UP.</text>
+ <text x="50" y="191" font-family="Arial" font-size="31" font-weight="700" fill="#17202b">STAND OUT.</text>
+ <text x="50" y="226" font-family="Arial" font-size="12" fill="#59636b">content with a point of view</text>
+ <rect x="30" y="310" width="120" height="10" rx="5" fill="#d9b4b5"/><rect x="30" y="331" width="220" height="8" rx="4" fill="#eadbd5"/><rect x="30" y="350" width="180" height="8" rx="4" fill="#eadbd5"/>
+ <rect x="30" y="390" width="104" height="32" rx="16" fill="#f1d7d7"/><text x="82" y="411" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#17202b">CONSISTENT</text>
+</g>
+<g transform="translate(360 88) rotate(6 160 145)" filter="url(#shadow)">
+ <rect width="320" height="285" rx="28" fill="#fffaf7"/>
+ <rect width="320" height="52" rx="28" fill="#17202b"/><text x="25" y="33" font-family="Arial" font-size="12" fill="#fff">EMAIL CAMPAIGN</text><circle cx="282" cy="26" r="7" fill="#f1d7d7"/>
+ <rect x="25" y="78" width="270" height="130" rx="18" fill="#e9efe8"/>
+ <text x="45" y="115" font-family="Arial" font-size="11" font-weight="700" fill="#8f6868">A LITTLE SOMETHING</text>
+ <text x="45" y="151" font-family="Arial" font-size="27" font-weight="700" fill="#17202b">Made for</text>
+ <text x="45" y="180" font-family="Arial" font-size="27" font-weight="700" fill="#a66b69">your people.</text>
+ <rect x="25" y="230" width="125" height="30" rx="15" fill="#f1d7d7"/><text x="87" y="250" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#17202b">READ MORE →</text>
+</g>
+<g transform="translate(440 390)" filter="url(#shadow)">
+ <rect width="245" height="135" rx="25" fill="#fffaf7"/>
+ <text x="25" y="32" font-family="Arial" font-size="10" font-weight="700" fill="#a66b69" letter-spacing="2">THE DIFFERENCE</text>
+ <text x="25" y="63" font-family="Arial" font-size="19" font-weight="700" fill="#17202b">Pretty + purposeful</text>
+ <text x="25" y="88" font-family="Arial" font-size="12" fill="#68727a">Every piece works together.</text>
+ <circle cx="205" cy="98" r="22" fill="#f1d7d7"/><text x="205" y="105" text-anchor="middle" font-family="Arial" font-size="18" fill="#8f6868">♡</text>
+</g>
+<g fill="#a66b69" font-family="Arial" font-weight="700">
+ <text x="680" y="270" font-size="28">✦</text><text x="315" y="505" font-size="25">♡</text><text x="675" y="535" font-size="20">✦</text>
+</g>
+<g fill="none" stroke="#a66b69" stroke-width="2" opacity=".45"><path d="M48 115c20-20 38-25 58-10"/><path d="M600 36c18 15 27 35 24 55"/></g>
+</svg>
